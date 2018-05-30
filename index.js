@@ -24,6 +24,7 @@ function destructivelyRemoveFirstKitten() {
 
 destructivelyRemoveFirstKitten();
 
+<<<<<<< HEAD
 function appendKitten(name) {
   var newKittens = [...kittens, name]
   return newKittens
@@ -51,3 +52,6 @@ function removeFirstKitten() {
 }
 
 removeFirstKitten();
+=======
+function 
+>>>>>>> 48df5af9e48c270ae9954bbb1e97c1addf8fe032
